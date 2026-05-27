@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/BPW34-SMD:BPW34-SMD",
+  "name": "BPW34-SMD",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/BPW34-SMD.kicad_sym",
+  "description": "Silicon PIN Photodiode, Area 2.65x2.65mm",
+  "datasheet": "https://dammedia.osram.info/media/resource/hires/osram-dam-5488319/BPW%2034%20S_EN.pdf",
+  "keywords": "opto photodiode",
+  "footprint": "OptoDevice:Osram_BPW34S-SMD",
+  "extends": "BP104-SMD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/BPW34-SMD/",
+  "part_path": "parts/BPW34-SMD",
+  "symbol_file": "parts/BPW34-SMD/BPW34-SMD.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.331Z"
+}

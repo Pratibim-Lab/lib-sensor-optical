@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/S5973:S5973",
+  "name": "S5973",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/S5973.kicad_sym",
+  "description": "Si PIN Photodiode, 1 GHz, TO-18-3",
+  "datasheet": "https://www.hamamatsu.com/resources/pdf/ssd/s5971_etc_kpin1025e.pdf",
+  "keywords": "opto photodiode",
+  "footprint": "Package_TO_SOT_THT:TO-18-3",
+  "extends": "S5971",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/S5973/",
+  "part_path": "parts/S5973",
+  "symbol_file": "parts/S5973/S5973.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.442Z"
+}

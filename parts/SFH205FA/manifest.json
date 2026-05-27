@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/SFH205FA:SFH205FA",
+  "name": "SFH205FA",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/SFH205FA.kicad_sym",
+  "description": "Silicon PIN Photodiode with Daylight Blocking Filter",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic9/00101665_0.pdf",
+  "keywords": "PIN Photodiode",
+  "footprint": "OptoDevice:Osram_SFH205",
+  "extends": "SFH205F",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/SFH205FA/",
+  "part_path": "parts/SFH205FA",
+  "symbol_file": "parts/SFH205FA/SFH205FA.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.457Z"
+}

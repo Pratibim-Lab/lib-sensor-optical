@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/C12880MA:C12880MA",
+  "name": "C12880MA",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/C12880MA.kicad_sym",
+  "description": "Micro spectrometer 340 to 850nm resolution 15nm",
+  "datasheet": "http://www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf",
+  "keywords": "spectrometer",
+  "footprint": "OptoDevice:Hamamatsu_C12880",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/C12880MA/",
+  "part_path": "parts/C12880MA",
+  "symbol_file": "parts/C12880MA/C12880MA.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.366Z"
+}

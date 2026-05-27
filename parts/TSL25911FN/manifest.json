@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/TSL25911FN:TSL25911FN",
+  "name": "TSL25911FN",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/TSL25911FN.kicad_sym",
+  "description": "Light to digital converter, 2.7 to 3.6V Vdd, DFN-6",
+  "datasheet": "https://ams.com/documents/20143/9331680/TSL2591_DS000338_7-00.pdf",
+  "keywords": "ALS",
+  "footprint": "OptoDevice:AMS_TSL25911FN",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/TSL25911FN/",
+  "part_path": "parts/TSL25911FN",
+  "symbol_file": "parts/TSL25911FN/TSL25911FN.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.523Z"
+}

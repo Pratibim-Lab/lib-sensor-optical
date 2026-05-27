@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/SFH2440:SFH2440",
+  "name": "SFH2440",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/SFH2440.kicad_sym",
+  "description": "Silicon Photodiode, Vf 1V, Area 2.65x2.65mm",
+  "datasheet": "https://dammedia.osram.info/media/resource/hires/osram-dam-5467146/SFH%202440_EN.pdf",
+  "keywords": "opto photodiode",
+  "footprint": "OptoDevice:Osram_SFH2440",
+  "extends": "BP104-SMD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/SFH2440/",
+  "part_path": "parts/SFH2440",
+  "symbol_file": "parts/SFH2440/SFH2440.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.485Z"
+}

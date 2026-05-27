@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/TSL2550T:TSL2550T",
+  "name": "TSL2550T",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/TSL2550T.kicad_sym",
+  "description": "Ambient Light Sensor with SMbus Interface, T-4 interface SMD",
+  "datasheet": "http://ams.com/eng/content/download/250130/975613/142977",
+  "keywords": "opto ambient light sensor",
+  "footprint": "OptoDevice:AMS_TSL2550_SMD",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/TSL2550T/",
+  "part_path": "parts/TSL2550T",
+  "symbol_file": "parts/TSL2550T/TSL2550T.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.518Z"
+}

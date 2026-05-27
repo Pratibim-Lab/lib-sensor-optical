@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/APDS-9301:APDS-9301",
+  "name": "APDS-9301",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/APDS-9301.kicad_sym",
+  "description": "ambient light sensor, i2c interface, 2.7-3.6V",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-2315EN",
+  "keywords": "ambient light sensor i2c",
+  "footprint": "OptoDevice:Broadcom_APDS-9301",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/APDS-9301/",
+  "part_path": "parts/APDS-9301",
+  "symbol_file": "parts/APDS-9301/APDS-9301.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.269Z"
+}

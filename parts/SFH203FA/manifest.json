@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/SFH203FA:SFH203FA",
+  "name": "SFH203FA",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/SFH203FA.kicad_sym",
+  "description": "Silicon PIN Photodiode with Daylight Blocking Filter",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic9/00101656_0.pdf/SFH%20203,%20SFH%20203%20FA,%20Lead%20(Pb)%20Free%20Product%20-%20RoHS%20Compliant.pdf",
+  "keywords": "PIN photodiode IR",
+  "footprint": "LED_THT:LED_D5.0mm_IRGrey",
+  "extends": "SFH203",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/SFH203FA/",
+  "part_path": "parts/SFH203FA",
+  "symbol_file": "parts/SFH203FA/SFH203FA.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.448Z"
+}

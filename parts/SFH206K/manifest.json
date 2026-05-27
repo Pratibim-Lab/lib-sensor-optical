@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/SFH206K:SFH206K",
+  "name": "SFH206K",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/SFH206K.kicad_sym",
+  "description": "Silicon PIN Photodiode",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic0/00211439_0.pdf/SFH%20206%20K.pdf",
+  "keywords": "opto PIN photodiode",
+  "footprint": "OptoDevice:Osram_SFH205",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/SFH206K/",
+  "part_path": "parts/SFH206K",
+  "symbol_file": "parts/SFH206K/SFH206K.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.460Z"
+}

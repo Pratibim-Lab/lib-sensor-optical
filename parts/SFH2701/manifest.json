@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/SFH2701:SFH2701",
+  "name": "SFH2701",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/SFH2701.kicad_sym",
+  "description": "High Speed PIN Photodiode, SMD package",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic6/00201111_0.pdf/SFH%202701.pdf",
+  "keywords": "opto photodiode",
+  "footprint": "LED_SMD:LED_1206_3216Metric_Castellated",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/SFH2701/",
+  "part_path": "parts/SFH2701",
+  "symbol_file": "parts/SFH2701/SFH2701.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.491Z"
+}

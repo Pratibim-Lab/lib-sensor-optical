@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/M9960:M9960",
+  "name": "M9960",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/M9960.kicad_sym",
+  "description": "light dependent resistor",
+  "datasheet": "http://cdn-reichelt.de/documents/datenblatt/A500/M996011a_b.pdf",
+  "keywords": "light dependent photo resistor LDR",
+  "footprint": "OptoDevice:R_LDR_5.2x5.2mm_P3.5mm_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/M9960/",
+  "part_path": "parts/M9960",
+  "symbol_file": "parts/M9960/M9960.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.403Z"
+}

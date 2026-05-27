@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/BP104:BP104",
+  "name": "BP104",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/BP104.kicad_sym",
+  "description": "Silicon PIN Photodiode",
+  "datasheet": "http://www.vishay.com/docs/81500/81500.pdf",
+  "keywords": "opto PIN photodiode",
+  "footprint": "OptoDevice:Osram_DIL2_4.3x4.65mm_P5.08mm",
+  "extends": "BPW34",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/BP104/",
+  "part_path": "parts/BP104",
+  "symbol_file": "parts/BP104/BP104.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.325Z"
+}

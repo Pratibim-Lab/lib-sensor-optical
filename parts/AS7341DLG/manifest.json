@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/AS7341DLG:AS7341DLG",
+  "name": "AS7341DLG",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/AS7341DLG.kicad_sym",
+  "description": "11-Channel Multi-Spectral Digital Sensor, OLGA-8",
+  "datasheet": "https://ams.com/documents/20143/36005/AS7341_DS000504_3-00.pdf",
+  "keywords": "11-Channel Spectral i2c optical color",
+  "footprint": "Package_LGA:AMS_OLGA-8_2x3.1mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/AS7341DLG/",
+  "part_path": "parts/AS7341DLG",
+  "symbol_file": "parts/AS7341DLG/AS7341DLG.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.308Z"
+}

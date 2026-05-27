@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/APDS-9306-065:APDS-9306-065",
+  "name": "APDS-9306-065",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/APDS-9306-065.kicad_sym",
+  "description": "Ambient Light Sensor, I2C interface, 1.7-3.6V, DFN-6",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-4755EN",
+  "keywords": "opto ambient light sensor",
+  "footprint": "OptoDevice:Broadcom_DFN-6_2x2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/APDS-9306-065/",
+  "part_path": "parts/APDS-9306-065",
+  "symbol_file": "parts/APDS-9306-065/APDS-9306-065.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.275Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/ISL29035:ISL29035",
+  "name": "ISL29035",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/ISL29035.kicad_sym",
+  "description": "ambient light sensor, i2c interface, 2.25-3.63V, DFN-6",
+  "datasheet": "https://www.renesas.com/us/en/document/dst/isl29035-datasheet",
+  "keywords": "ambient light sensor i2c",
+  "footprint": "OptoDevice:Renesas_DFN-6_1.5x1.6mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/ISL29035/",
+  "part_path": "parts/ISL29035",
+  "symbol_file": "parts/ISL29035/ISL29035.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.380Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/AS7343xDLG:AS7343xDLG",
+  "name": "AS7343xDLG",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/AS7343xDLG.kicad_sym",
+  "description": "14-Channel Multi-Spectral Digital Sensor including XYZ, Clear and Flicker Detection, 380 - 1000 nm,OLGA-8",
+  "datasheet": "https://ams.com/documents/20143/6705498/AS7343_DS001046_6_00.pdf",
+  "keywords": "14-Channel Spectral i2c optical color",
+  "footprint": "Package_LGA:AMS_OLGA-8_2x3.1mm_P0.8mm",
+  "extends": "AS7341DLG",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/AS7343xDLG/",
+  "part_path": "parts/AS7343xDLG",
+  "symbol_file": "parts/AS7343xDLG/AS7343xDLG.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.310Z"
+}

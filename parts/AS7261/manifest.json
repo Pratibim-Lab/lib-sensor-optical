@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/AS7261:AS7261",
+  "name": "AS7261",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/AS7261.kicad_sym",
+  "description": "Spectral Sensing Engine, 6-Channel XYZ Spectral_ID",
+  "datasheet": "https://ams.com/documents/20143/36005/AS7261_DS000493_1-00.pdf/0e7d1f12-702e-d061-b07a-67b0b6316800",
+  "keywords": "6-Channel XYZ Spectral_ID Device Electronic Shutter Smart Interface i2c uart",
+  "footprint": "Package_LGA:AMS_LGA-20_4.7x4.5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/AS7261/",
+  "part_path": "parts/AS7261",
+  "symbol_file": "parts/AS7261/AS7261.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.289Z"
+}

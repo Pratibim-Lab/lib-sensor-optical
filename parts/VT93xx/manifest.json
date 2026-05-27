@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/VT93xx:VT93xx",
+  "name": "VT93xx",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/VT93xx.kicad_sym",
+  "description": "light dependent resistor",
+  "datasheet": "http://www.produktinfo.conrad.com/datenblaetter/125000-149999/140375-da-01-en-FOTOWIDERSTAND__VT_93_N2__THT_.pdf",
+  "keywords": "light dependent photo resistor LDR",
+  "footprint": "OptoDevice:R_LDR_4.9x4.2mm_P2.54mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/VT93xx/",
+  "part_path": "parts/VT93xx",
+  "symbol_file": "parts/VT93xx/VT93xx.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.527Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/A1050:A1050",
+  "name": "A1050",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/A1050.kicad_sym",
+  "description": "light dependent resistor",
+  "datasheet": "http://cdn-reichelt.de/documents/datenblatt/A500/A106012.pdf",
+  "keywords": "light dependent photo resistor LDR",
+  "footprint": "OptoDevice:R_LDR_D6.4mm_P3.4mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/A1050/",
+  "part_path": "parts/A1050",
+  "symbol_file": "parts/A1050/A1050.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.232Z"
+}

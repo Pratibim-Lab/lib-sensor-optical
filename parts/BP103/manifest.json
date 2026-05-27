@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/BP103:BP103",
+  "name": "BP103",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/BP103.kicad_sym",
+  "description": "NPN Phototransistor",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic3/00101777_0.pdf/BP",
+  "keywords": "npn phototransistor",
+  "footprint": "Package_TO_SOT_THT:TO-18-3_Lens",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/BP103/",
+  "part_path": "parts/BP103",
+  "symbol_file": "parts/BP103/BP103.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.314Z"
+}

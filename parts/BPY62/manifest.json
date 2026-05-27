@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/BPY62:BPY62",
+  "name": "BPY62",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/BPY62.kicad_sym",
+  "description": "NPN Phototransistor",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic9/00208595_0.pdf",
+  "keywords": "NPN Phototransistor opto",
+  "footprint": "Package_TO_SOT_THT:TO-18-3_Lens",
+  "extends": "BP103",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/BPY62/",
+  "part_path": "parts/BPY62",
+  "symbol_file": "parts/BPY62/BPY62.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.363Z"
+}

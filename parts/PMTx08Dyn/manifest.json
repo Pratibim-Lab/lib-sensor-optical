@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/PMTx08Dyn:PMTx08Dyn",
+  "name": "PMTx08Dyn",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/PMTx08Dyn.kicad_sym",
+  "description": "8-stage photomultiplier tube",
+  "datasheet": "",
+  "keywords": "PMT 8-stage",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/PMTx08Dyn/",
+  "part_path": "parts/PMTx08Dyn",
+  "symbol_file": "parts/PMTx08Dyn/PMTx08Dyn.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.416Z"
+}

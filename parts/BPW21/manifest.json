@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/BPW21:BPW21",
+  "name": "BPW21",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/BPW21.kicad_sym",
+  "description": "Silicon Photodiode for the visible spectral range, TO-5 package",
+  "datasheet": "http://techwww.in.tu-clausthal.de/site/Dokumentation/Dioden/Fotodioden/BPW21-Fotodiode.pdf",
+  "keywords": "opto photodiode",
+  "footprint": "Package_TO_SOT_THT:TO-5-2_Window",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/BPW21/",
+  "part_path": "parts/BPW21",
+  "symbol_file": "parts/BPW21/BPW21.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.327Z"
+}

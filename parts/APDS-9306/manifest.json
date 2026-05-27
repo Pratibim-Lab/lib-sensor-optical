@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/APDS-9306:APDS-9306",
+  "name": "APDS-9306",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/APDS-9306.kicad_sym",
+  "description": "Ambient Light Sensor, I2C interface, 1.7-3.6V, LGA-8",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-4755EN",
+  "keywords": "opto ambient light sensor",
+  "footprint": "OptoDevice:Broadcom_LGA-8_2x2mm_P0.53mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/APDS-9306/",
+  "part_path": "parts/APDS-9306",
+  "symbol_file": "parts/APDS-9306/APDS-9306.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.281Z"
+}

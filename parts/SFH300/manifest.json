@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/SFH300:SFH300",
+  "name": "SFH300",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/SFH300.kicad_sym",
+  "description": "silicon NPN phototransistor",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic2/00101785_0.pdf",
+  "keywords": "NPN phototransistor",
+  "footprint": "LED_THT:LED_D5.0mm_Clear",
+  "extends": "BPW40",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/SFH300/",
+  "part_path": "parts/SFH300",
+  "symbol_file": "parts/SFH300/SFH300.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.497Z"
+}

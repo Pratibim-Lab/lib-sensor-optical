@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/APDS-9251-001:APDS-9251-001",
+  "name": "APDS-9251-001",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/APDS-9251-001.kicad_sym",
+  "description": "Digital RGB, IR, and Ambient Light Sensor, 1.7-3.6V, LGA-8",
+  "datasheet": "https://docs.broadcom.com/doc/APDS-9251-001-DS",
+  "keywords": "opto ambient light sensor",
+  "footprint": "OptoDevice:Broadcom_LGA-8_2x2mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/APDS-9251-001/",
+  "part_path": "parts/APDS-9251-001",
+  "symbol_file": "parts/APDS-9251-001/APDS-9251-001.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.262Z"
+}

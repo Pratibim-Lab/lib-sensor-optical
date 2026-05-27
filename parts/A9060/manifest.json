@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/A9060:A9060",
+  "name": "A9060",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/A9060.kicad_sym",
+  "description": "light dependent resistor",
+  "datasheet": "http://cdn-reichelt.de/documents/datenblatt/A500/A90xxxx%23PE.pdf",
+  "keywords": "light dependent photo resistor LDR",
+  "footprint": "OptoDevice:R_LDR_5.0x4.1mm_P3mm_Vertical",
+  "extends": "A9050",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/A9060/",
+  "part_path": "parts/A9060",
+  "symbol_file": "parts/A9060/A9060.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.254Z"
+}

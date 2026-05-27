@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/BPW40:BPW40",
+  "name": "BPW40",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/BPW40.kicad_sym",
+  "description": "Phototransistor NPN",
+  "datasheet": "https://www.rcscomponents.kiev.ua/datasheets/bpw40.pdf",
+  "keywords": "npn phototransistor",
+  "footprint": "LED_THT:LED_D5.0mm_Clear",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/BPW40/",
+  "part_path": "parts/BPW40",
+  "symbol_file": "parts/BPW40/BPW40.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.335Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/TEPT4400:TEPT4400",
+  "name": "TEPT4400",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/TEPT4400.kicad_sym",
+  "description": "Ambient Light Sensor, NPN Epitaxial Planar Phototransistor, T-1",
+  "datasheet": "https://www.vishay.com/docs/81341/tept4400.pdf",
+  "keywords": "npn phototransistor ambient light sensor",
+  "footprint": "LED_THT:LED_D3.0mm_Clear",
+  "extends": "SFH309",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/TEPT4400/",
+  "part_path": "parts/TEPT4400",
+  "symbol_file": "parts/TEPT4400/TEPT4400.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.508Z"
+}

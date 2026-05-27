@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/SFH203:SFH203",
+  "name": "SFH203",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/SFH203.kicad_sym",
+  "description": "Silicon PIN Photodiode",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic9/00101656_0.pdf/SFH%20203,%20SFH%20203%20FA,%20Lead%20(Pb)%20Free%20Product%20-%20RoHS%20Compliant.pdf",
+  "keywords": "opto PIN photodiode",
+  "footprint": "LED_THT:LED_D5.0mm_IRGrey",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/SFH203/",
+  "part_path": "parts/SFH203",
+  "symbol_file": "parts/SFH203/SFH203.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.444Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/BPW85A:BPW85A",
+  "name": "BPW85A",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/BPW85A.kicad_sym",
+  "description": "Silicon NPN Phototransistor, Ica = 0.8-2.5mA, T-1",
+  "datasheet": "https://www.vishay.com/docs/81531/bpw85a.pdf",
+  "keywords": "npn phototransistor",
+  "footprint": "LED_THT:LED_D3.0mm_Clear",
+  "extends": "SFH309",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/BPW85A/",
+  "part_path": "parts/BPW85A",
+  "symbol_file": "parts/BPW85A/BPW85A.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.348Z"
+}

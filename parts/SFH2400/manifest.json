@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/SFH2400:SFH2400",
+  "name": "SFH2400",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/SFH2400.kicad_sym",
+  "description": "Silicon PIN Photodiode, SMD package",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic5/00215665_0.pdf/SFH%202400.pdf",
+  "keywords": "opto photodiode",
+  "footprint": "OptoDevice:Osram_SMD-SmartDIL",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/SFH2400/",
+  "part_path": "parts/SFH2400",
+  "symbol_file": "parts/SFH2400/SFH2400.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.480Z"
+}

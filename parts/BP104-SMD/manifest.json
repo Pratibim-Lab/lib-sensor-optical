@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/BP104-SMD:BP104-SMD",
+  "name": "BP104-SMD",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/BP104-SMD.kicad_sym",
+  "description": "Silicon PIN Photodiode,  Area 2.2x2.2mm",
+  "datasheet": "https://dammedia.osram.info/media/resource/hires/osram-dam-5989350/BP%20104%20FAS_EN.pdf",
+  "keywords": "opto photodiode",
+  "footprint": "OptoDevice:Osram_BP104-SMD",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/BP104-SMD/",
+  "part_path": "parts/BP104-SMD",
+  "symbol_file": "parts/BP104-SMD/BP104-SMD.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.323Z"
+}

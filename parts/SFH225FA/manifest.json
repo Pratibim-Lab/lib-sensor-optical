@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/SFH225FA:SFH225FA",
+  "name": "SFH225FA",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/SFH225FA.kicad_sym",
+  "description": "Silicon PIN Photodiode with Daylight Blocking Filter",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic0/00209685_0.pdf/SFH%20225%20FA.pdf",
+  "keywords": "opto PIN photodiode IR",
+  "footprint": "OptoDevice:Osram_SFH225",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/SFH225FA/",
+  "part_path": "parts/SFH225FA",
+  "symbol_file": "parts/SFH225FA/SFH225FA.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.469Z"
+}

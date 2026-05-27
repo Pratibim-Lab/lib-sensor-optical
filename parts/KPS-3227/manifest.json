@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/KPS-3227:KPS-3227",
+  "name": "KPS-3227",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/KPS-3227.kicad_sym",
+  "description": "Ambient light NPN phototransistor, KPS-3227",
+  "datasheet": "https://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-3227SP1C(Ver.16).pdf",
+  "keywords": "Kingbright npn phototransistor ambient light photo sensor",
+  "footprint": "OptoDevice:Kingbright_KPS-3227",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/KPS-3227/",
+  "part_path": "parts/KPS-3227",
+  "symbol_file": "parts/KPS-3227/KPS-3227.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.382Z"
+}

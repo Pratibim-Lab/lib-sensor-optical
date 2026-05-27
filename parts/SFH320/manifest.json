@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/SFH320:SFH320",
+  "name": "SFH320",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/SFH320.kicad_sym",
+  "description": "Silicon NPN Phototransistor, PLCC-2",
+  "datasheet": "https://look.ams-osram.com/m/5397c5d8583a26cf/original/SFH-320.pdf",
+  "keywords": "npn phototransistor",
+  "footprint": "LED_SMD:LED_PLCC-2_3.4x3.0mm_KA",
+  "extends": "SFH309",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/SFH320/",
+  "part_path": "parts/SFH320",
+  "symbol_file": "parts/SFH320/SFH320.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.501Z"
+}

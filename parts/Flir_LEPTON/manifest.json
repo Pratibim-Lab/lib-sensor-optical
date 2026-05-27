@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/Flir_LEPTON:Flir_LEPTON",
+  "name": "Flir_LEPTON",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/Flir_LEPTON.kicad_sym",
+  "description": "LWIR camera 8 to 14um 80x60 pixel",
+  "datasheet": "https://cdn.sparkfun.com/datasheets/Sensors/Infrared/FLIR_Lepton_Data_Brief.pdf",
+  "keywords": "LWIR camera",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/Flir_LEPTON/",
+  "part_path": "parts/Flir_LEPTON",
+  "symbol_file": "parts/Flir_LEPTON/Flir_LEPTON.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.375Z"
+}

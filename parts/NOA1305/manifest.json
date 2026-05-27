@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/NOA1305:NOA1305",
+  "name": "NOA1305",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/NOA1305.kicad_sym",
+  "description": "Ambient Light Sensor with I2C Interface and Dark Current Compensation",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/NOA1305-D.PDF",
+  "keywords": "opto ambient light sensor",
+  "footprint": "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/NOA1305/",
+  "part_path": "parts/NOA1305",
+  "symbol_file": "parts/NOA1305/NOA1305.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.407Z"
+}

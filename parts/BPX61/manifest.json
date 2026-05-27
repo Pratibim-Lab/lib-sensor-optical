@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/BPX61:BPX61",
+  "name": "BPX61",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/BPX61.kicad_sym",
+  "description": "Silicon Photodiode for the visible spectral range",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic3/00101650_0.pdf",
+  "keywords": "photodiode opto",
+  "footprint": "Package_TO_SOT_THT:TO-5-2_Window",
+  "extends": "BPW21",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/BPX61/",
+  "part_path": "parts/BPX61",
+  "symbol_file": "parts/BPX61/BPX61.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.357Z"
+}

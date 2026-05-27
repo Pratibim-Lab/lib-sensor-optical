@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/LPT80A:LPT80A",
+  "name": "LPT80A",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/LPT80A.kicad_sym",
+  "description": "NPN phototransistor",
+  "datasheet": "http://www.osram-os.com/Graphics/XPic4/00209607_0.pdf/LPT%2080A.pdf",
+  "keywords": "NPN phototransistor",
+  "footprint": "OptoDevice:Osram_LPT80A",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/LPT80A/",
+  "part_path": "parts/LPT80A",
+  "symbol_file": "parts/LPT80A/LPT80A.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.396Z"
+}

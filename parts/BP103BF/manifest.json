@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/BP103BF:BP103BF",
+  "name": "BP103BF",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/BP103BF.kicad_sym",
+  "description": "NPN phototransistor with daylight filter",
+  "datasheet": "http://www.b-kainka.de/Daten/Sensor/bp103bf.pdf",
+  "keywords": "IR NPN phototransistor",
+  "footprint": "LED_THT:LED_D5.0mm_Clear",
+  "extends": "BPW40",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/BP103BF/",
+  "part_path": "parts/BP103BF",
+  "symbol_file": "parts/BP103BF/BP103BF.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.320Z"
+}

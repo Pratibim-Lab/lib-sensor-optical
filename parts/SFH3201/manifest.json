@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/SFH3201:SFH3201",
+  "name": "SFH3201",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/SFH3201.kicad_sym",
+  "description": "Silicon NPN phototransistor, SMD-6",
+  "datasheet": "https://dammedia.osram.info/media/resource/hires/osram-dam-2495980/SFH%203201.pdf",
+  "keywords": "NPN phototransistor",
+  "footprint": "OptoDevice:Osram_SFH9x0x",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/SFH3201/",
+  "part_path": "parts/SFH3201",
+  "symbol_file": "parts/SFH3201/SFH3201.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.503Z"
+}

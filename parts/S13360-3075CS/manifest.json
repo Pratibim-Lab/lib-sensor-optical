@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/S13360-3075CS:S13360-3075CS",
+  "name": "S13360-3075CS",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/S13360-3075CS.kicad_sym",
+  "description": "Multi-Pixel Photon Counter with 75µm pixel pitch",
+  "datasheet": "http://www.hamamatsu.com/resources/pdf/ssd/s13360_series_kapd1052e.pdf",
+  "keywords": "opto SiPM MPPC hamamatsu SPAD",
+  "footprint": "OptoDevice:Hamamatsu_S13360-30CS",
+  "extends": "S13360-3025CS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/S13360-3075CS/",
+  "part_path": "parts/S13360-3075CS",
+  "symbol_file": "parts/S13360-3075CS/S13360-3075CS.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.431Z"
+}

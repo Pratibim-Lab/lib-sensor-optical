@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/D_SiPM_OnSemi_MicroFJ-300xx:D_SiPM_OnSemi_MicroFJ-300xx",
+  "name": "D_SiPM_OnSemi_MicroFJ-300xx",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/D_SiPM_OnSemi_MicroFJ-300xx.kicad_sym",
+  "description": "SiPM, OnSemi J-Series 3x3mm with fast output, 20/35um microcell size, 24.2..24.7Vbr, ODCSP-8",
+  "datasheet": "https://www.onsemi.com/pdf/datasheet/microj-series-d.pdf",
+  "keywords": "SiPM MPPC SPAD photon counting",
+  "footprint": "Package_CSP:OnSemi_ODCSP8_BGA-8_3.16x3.16mm_Layout3x3_P1.26mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/D_SiPM_OnSemi_MicroFJ-300xx/",
+  "part_path": "parts/D_SiPM_OnSemi_MicroFJ-300xx",
+  "symbol_file": "parts/D_SiPM_OnSemi_MicroFJ-300xx/D_SiPM_OnSemi_MicroFJ-300xx.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.369Z"
+}

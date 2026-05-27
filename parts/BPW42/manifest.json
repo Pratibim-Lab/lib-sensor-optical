@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/BPW42:BPW42",
+  "name": "BPW42",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/BPW42.kicad_sym",
+  "description": "NPN phototransistor",
+  "datasheet": "http://www.ges.cz/sheets/b/bpw42.pdf",
+  "keywords": "NPN phototransistor opto",
+  "footprint": "LED_THT:LED_D3.0mm_Clear",
+  "extends": "SFH309",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/BPW42/",
+  "part_path": "parts/BPW42",
+  "symbol_file": "parts/BPW42/BPW42.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.338Z"
+}

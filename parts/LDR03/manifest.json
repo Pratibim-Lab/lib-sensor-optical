@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/LDR03:LDR03",
+  "name": "LDR03",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/LDR03.kicad_sym",
+  "description": "light dependent resistor",
+  "datasheet": "http://www.elektronica-componenten.nl/WebRoot/StoreNL/Shops/61422969/54F1/BA0C/C664/31B9/2173/C0A8/2AB9/2AEF/LDR03IMP.pdf",
+  "keywords": "light dependent photo resistor LDR",
+  "footprint": "OptoDevice:R_LDR_10x8.5mm_P7.6mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/LDR03/",
+  "part_path": "parts/LDR03",
+  "symbol_file": "parts/LDR03/LDR03.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.387Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/LDR07:LDR07",
+  "name": "LDR07",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/LDR07.kicad_sym",
+  "description": "light dependent resistor",
+  "datasheet": "http://www.tme.eu/de/Document/f2e3ad76a925811312d226c31da4cd7e/LDR07.pdf",
+  "keywords": "light dependent photo resistor LDR",
+  "footprint": "OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/LDR07/",
+  "part_path": "parts/LDR07",
+  "symbol_file": "parts/LDR07/LDR07.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.391Z"
+}

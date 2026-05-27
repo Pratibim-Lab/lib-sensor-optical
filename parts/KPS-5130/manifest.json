@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Optical/KPS-5130:KPS-5130",
+  "name": "KPS-5130",
+  "library": "Sensor_Optical",
+  "file": "Sensor_Optical.kicad_symdir/KPS-5130.kicad_sym",
+  "description": "RGB Colour Sensor, KPS-5130",
+  "datasheet": "https://www.kingbright.com/attachments/file/psearch/000/00/20160808bak/KPS-5130PD7C(Ver.13).pdf",
+  "keywords": "opto photodiode RGB colour sensor",
+  "footprint": "OptoDevice:Kingbright_KPS-5130",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-optical@master/parts/KPS-5130/",
+  "part_path": "parts/KPS-5130",
+  "symbol_file": "parts/KPS-5130/KPS-5130.kicad_sym",
+  "source_library": "Sensor_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:18.384Z"
+}
